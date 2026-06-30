@@ -1,0 +1,7 @@
+gunicorn
+uvicorn
+numpy
+fastapi
+opencv-python-headless
+onnxruntime
+python-dotenv
